@@ -1,4 +1,4 @@
-20142701105321412
+20147651238884815
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -75621,6 +75621,13 @@ Inductor SMD CR75 Unshielded
 2
 2
 Project
+MODULE_ARDUINO_PRO_MINI
+
+
+0
+34
+34
+Project
 OSC_CSTCE16M0V53-R0
 
 
@@ -75683,6 +75690,13 @@ SSD1306
 0
 14
 14
+Project
+SW_PTS525SM15SMTR2LFS
+
+
+0
+4
+4
 Project
 XKB_U254-051T-4BH83-F1S
 
@@ -85579,7 +85593,7 @@ Teensy40
 
 
 0
-44
+77
 44
 teensy
 Teensy40_SMT
@@ -85588,3 +85602,10 @@ Teensy40_SMT
 0
 54
 54
+teensy
+Teensy40_pins
+
+
+0
+44
+44
